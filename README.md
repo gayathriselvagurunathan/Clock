@@ -1,1 +1,2 @@
 # Clock
+The Theme Clock is a dynamic digital clock built using HTML, CSS, and JavaScript, featuring real-time updates and multiple theme options. This project displays the current time in an elegant design while allowing users to switch between different themes, such as light mode, dark mode, and custom styles. The clock updates every second using JavaScript, while CSS ensures smooth animations and a responsive layout. This project is a great example of DOM manipulation, event handling, and UI design. 🚀
